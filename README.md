@@ -4,7 +4,7 @@ Fetch anyone's CGPA from only their roll number
 `sh install.sh`
 ## Usage
 `python3 result.py` to run the script. 
-Enter your roll number and date of birth (dd-mm-yyyy) respectively to continue.
+Enter your roll number to continue.
 ## Dependencies
 * Python 3+
 * tesseract-ocr
